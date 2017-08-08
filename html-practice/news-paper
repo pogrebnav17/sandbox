@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+    <header>
+      <h1> Washington Hispanic </h1>
+      <div id='banner'>
+        <div id='left'>
+          //image
+          //textarea
+        </div>
+        <div id='right'>
+          //image
+          //textarea
+        </div>
+        <div id='bottom-span'>
+          <p>date</p>
+          <p>site</p>
+          <p>volume</p>
+        </div>
+      </div>
+    </header>
+    <section class="front-page">
+      <h6> title </h6>
+      <h2> bigger title </h2>
+    </section>
+  </body>
+</html>
